@@ -1,3 +1,5 @@
+/* src/app/styles/globals.css*/
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
@@ -14,12 +16,11 @@
   }
 }
 
-/* Global Styles */
 body {
   font-family: 'Arial', sans-serif;
   margin: 0;
   padding: 0;
-  background-color: #f9fafb; /* Light background */
+  background-color: #f9fafb;
 }
 
 h1, h2, h3 {
